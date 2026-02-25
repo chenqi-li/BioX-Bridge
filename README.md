@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>BioX-Bridge</h1>
-  <p><i>Model Bridging for Unsupervised Cross-Modal Knowledge Transfer across Biosignals</i></p>
-</div>
 
-<div align="center">
-[![arXiv](https://img.shields.io/badge/arXiv-2412.07236-B31B1B.svg)](https://arxiv.org/abs/2510.02276)
+# BioX-Bridge
+*Model Bridging for Unsupervised Cross-Modal Knowledge Transfer across Biosignals*
+
+[![arXiv](https://img.shields.io/badge/arXiv-2412.07236-B31B1B.svg)](https://arxiv.org/abs/2510.02276) 
 [![Paper](https://img.shields.io/badge/Paper-ICLR-008080.svg)](https://openreview.net/forum?id=1448q0s3zZ)
+
 </div>
 
 ![Compare](./figures/fig1_style_compare.jpg)
