@@ -1,0 +1,15 @@
+torch 
+torchvision 
+torchaudio
+numpy
+pandas
+matplotlib
+joblib
+scipy 
+scikit-learn 
+tqdm
+dotmap
+vitaldb
+openpyxl
+torch-ecg
+pytorch_metric_learning
