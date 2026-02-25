@@ -1,6 +1,6 @@
 <div align="center">
 
-# BioX-Bridge
+# 🌉 BioX-Bridge
 *Model Bridging for Unsupervised Cross-Modal Knowledge Transfer across Biosignals*
 
 [![arXiv](https://img.shields.io/badge/arXiv-2412.07236-B31B1B.svg)](https://arxiv.org/abs/2510.02276) 
